@@ -1,0 +1,8 @@
+[package]
+name = "protobuf-network-example"
+version = "0.1.0"
+authors = ["Ted Mielczarek <ted@mielczarek.org>"]
+license = "CC0-1.0"
+
+[dependencies]
+protobuf = "1.0.18"

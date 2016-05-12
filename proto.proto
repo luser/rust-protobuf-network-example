@@ -1,0 +1,9 @@
+package test;
+
+message Request {
+  required string in = 1;
+}
+
+message Response {
+  required string out = 1;
+}
